@@ -36,5 +36,3 @@ elif playing_mode == "hard":
     make_a_guess(hard)
 else:
     print("Incorrect. Please type Correctly.")
-
-
